@@ -24,8 +24,8 @@ Feel free to reach out to me for collaboration or any inquiries:
 
 Here are some highlights of my work:
 
-- **Project 1:** [PokemonProject](PokemonProject) - A php and js website where you can create your own Pokémon and have them fight.
-- **Project 2:** [Pokedex](Pokedex) - A unity Pokedex project with a nice interface that shows all existing Pokémons, their stats, attacks, and more.
+- **Project 1:** [PokemonProject](https://www.github.com/IlanDeVinci/PokemonProject) - A php and js website where you can create your own Pokémon and have them fight.
+- **Project 2:** [Pokedex]([Pokedex](https://www.github.com/IlanDeVinci/Pokedex) - A unity Pokedex project with a nice interface that shows all existing Pokémons, their stats, attacks, and more.
 
 ---
 
