@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer dedicated to 
 
 Feel free to reach out to me for collaboration or any inquiries:
 
-📧 [Email Me](mailto:ilan.maouchi@gmail.com)
+📧 [ilan.maouchi@gmail.com](mailto:ilan.maouchi@gmail.com)
 
 ---
 
