@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**IlanDeVinci/IlanDeVinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate fullstack developer dedicated to creating responsive, user-friendly web applications and contributing to impactful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** HTML, CSS, JavaScript, Node.js
+- **Frameworks:** React, Express
+- **Tools:** Git, VS Code, Figma
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out to me for collaboration or any inquiries:
+
+📧 [Email Me](mailto:ilan.maouchi@gmail.com)
+
+---
+
+## 🌟 Projects
+
+Here are some highlights of my work:
+
+- **Project 1:** [PokemonProject](#) - Brief description.
+- **Project 2:** [Pokedex](#) - Brief description.
+
+---
+
+Thanks for visiting my profile! 😊
