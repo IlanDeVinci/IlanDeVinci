@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate fullstack developer dedicated to creating responsive, user-friendly web applications and contributing to impactful projects.
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,express,figma,git,java,mysql,nodejs,php,prisma,py,react,sass,symfony,ts,unity,visualstudio,vscode,vite,ae,ps,c,cpp&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,express,figma,git,java,mysql,nodejs,php,prisma,py,react,sass,symfony,ts,unity,visualstudio,vscode,vite,ae,ps,c,cpp&perline=13)](https://skillicons.dev)
 
 
 ## 📫 Get in Touch
