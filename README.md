@@ -1,12 +1,12 @@
-# Hi there! 👋
+# Hey there !
 
-Welcome to my GitHub profile! I'm a passionate fullstack developer dedicated to creating responsive, user-friendly web applications and contributing to impactful projects.
+Currently working on making a website for Genshin Impact leaderboards, build advice, and archive.
 
 ---
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,express,figma,git,java,mysql,nodejs,php,prisma,py,react,sass,symfony,ts,unity,visualstudio,vscode,vite,ae,ps&perline=12)](https://skillicons.dev)
 
 
-## 📫 Get in Touch
+## Get in Touch
 
 Feel free to reach out to me for collaboration or any inquiries:
 
@@ -16,7 +16,7 @@ Feel free to reach out to me for collaboration or any inquiries:
 
 ---
 
-## 🌟 Projects
+## Projects
 
 Here are some highlights of my work:
 
