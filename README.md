@@ -1,7 +1,7 @@
 [![Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,express,figma,git,java,mysql,nodejs,php,prisma,py,react,sass,symfony,ts,unity,visualstudio,vscode,vite,ae,ps&perline=12)](https://skillicons.dev)
 
 
-# Get in Touch
+### Get in Touch
 
 Feel free to reach out to me for collaboration or any inquiries:
 
