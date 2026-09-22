@@ -8,6 +8,6 @@ Currently working on making a website for Genshin Impact leaderboards and build 
 
 Feel free to reach out to me for collaboration or any inquiries:
 
-📧 [ilan.maouchi@gmail.com](mailto:ilan.maouchi@gmail.com)
+[ilan.maouchi@gmail.com](mailto:ilan.maouchi@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilan-maouchi-b1aa1b28b/)
